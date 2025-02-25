@@ -1,3 +1,3 @@
 # Project-1
-My first project 
-Written by: M.Asmar Naeem
+My first github reporaitory 
+Code written by: M.Asmar Naeem
